@@ -3,7 +3,7 @@
 **Input**- Tax, distance of highways, average income and population with driving license. <br>
 **Output** – Expected petrol consumption.  <br>
 
-
+**Code and Steps** - Inclueded in the document
 
 ## Data Base ##
 https://www.kaggle.com/datasets/harinir/petrol-consumption/data
